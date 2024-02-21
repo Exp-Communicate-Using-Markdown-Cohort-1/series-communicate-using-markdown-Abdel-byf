@@ -1,5 +1,9 @@
 ![Image of Yaktocat](https://octodex.github.com/images/octoliberty.png)
 # How to Excel in Data Science
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 ## Understand the Big Picture
 ## Cultivate the Data Expertise
 ## Bridging Theory and Practice
